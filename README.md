@@ -1,2 +1,2 @@
 Lab Docker
-![](http://url/to/Skreenshot.png)
+![](https://github.com/TanaevaSvetlana/Lab_Docker/raw/master/Screenshot.png)
